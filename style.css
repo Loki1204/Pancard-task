@@ -1,0 +1,35 @@
+html {
+    font-family: sans-serif;
+  }
+  body{
+      background-color: lightgoldenrodyellow;
+  }
+  
+  .table {
+    border-collapse: collapse;
+    border: 2px solid rgb(200,200,200);
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+  }
+  #table td{
+      border: none;
+  }
+  
+  td, th {
+    border: 1px solid rgb(190,190,190);
+    padding: 10px 20px;
+  }
+  
+  
+  
+  td, th {
+    text-align: left;
+  }
+  
+span{
+    color: blue;
+    font-style: normal;
+}
+.asterik{
+    color: red;
+}
